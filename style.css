@@ -1,0 +1,23 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(./background.png);
+}
+
+.header {
+    font-family: 'Danfo', 'serif';
+}
+
+button {
+    margin: 3px;
+}
+
+.FUCKING_IMAGE {
+    width: 256px;
+    height: 120px;
+}
+
+.FUCKIT {
+    padding: 1px;
+    background-color: white;
+}
+
